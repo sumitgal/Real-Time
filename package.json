@@ -1,0 +1,14 @@
+{
+  "name": "real_time_chat_application-master",
+  "version": "1.0.0",
+  "description": "This is real chat box Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit kumar",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.4"
+  }
+}
